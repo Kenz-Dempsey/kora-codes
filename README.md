@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kora-codes
 - 👀 I’m interested in Web Development
 - 🔥 I’m 19 years old, and live in Canada
-- 🌱 I’m currently learning JavaScript & Pyhton
+- 🌱 I’m currently learning JavaScript & Python
 - 💞️ I’m looking to collaborate on front-end projects!
 - 📫 How to reach me: <br>
 Instagram: @kenzngton <br>
